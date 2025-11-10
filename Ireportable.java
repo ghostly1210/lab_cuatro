@@ -1,0 +1,3 @@
+interface IReportable {
+    String generarReporte();
+}

@@ -1,0 +1,3 @@
+interface IVisualizable {
+    String visualizar();
+}
